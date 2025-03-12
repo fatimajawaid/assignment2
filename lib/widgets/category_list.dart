@@ -22,7 +22,7 @@ class CategoryList extends StatelessWidget {
               margin: EdgeInsets.symmetric(horizontal: 8),
               padding: EdgeInsets.symmetric(horizontal: 16, vertical: 10),
               decoration: BoxDecoration(
-                color: isSelected ? Color.fromARGB(255, 207, 187, 243) : Colors.white,
+                color: isSelected ? Color.fromARGB(255, 207, 187, 243) : Color.fromARGB(255, 244, 230, 255),
                 border: Border.all(color: Color.fromARGB(255, 193, 193, 195), width: 1.5),
                 borderRadius: BorderRadius.circular(20),
               ),
